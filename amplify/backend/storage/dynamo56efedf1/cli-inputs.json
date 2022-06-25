@@ -1,0 +1,10 @@
+{
+  "resourceName": "dynamo56efedf1",
+  "tableName": "postsforamplify",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "number"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
