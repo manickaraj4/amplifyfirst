@@ -3,13 +3,10 @@
 
 const awsmobile = {
     "aws_project_region": "us-east-1",
-    "aws_dynamodb_all_tables_region": "us-east-1",
-    "aws_dynamodb_table_schemas": [
-        {
-            "tableName": "postsforamplify-dev",
-            "region": "us-east-1"
-        }
-    ]
+    "aws_appsync_graphqlEndpoint": "https://5v5z7n3efrh5pmvl4opzh4ap4u.appsync-api.us-east-1.amazonaws.com/graphql",
+    "aws_appsync_region": "us-east-1",
+    "aws_appsync_authenticationType": "API_KEY",
+    "aws_appsync_apiKey": "da2-waggeeh66zbzrkczylykph3y7e"
 };
 
 
